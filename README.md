@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Trisha
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Trisha</h1>
+
+
+- ✨ I'm a junior at South Brunswick High School
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning AP Computer Science A
+- 🌱 I’m currently learning Mobile App Development & Virtual Reality
+- 🏀 I play basketball 
 - 📫 How to reach me trishavreddy@gmail.com
 
 <!---
