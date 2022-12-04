@@ -5,7 +5,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Mobile App Development & Virtual Reality
 - 🏀 I play basketball 
-- 📫 How to reach me trishavreddy@gmail.com
+- 📫 Reach me at trishavreddy@gmail.com
 
 *Leetcode*: trishar7
 
