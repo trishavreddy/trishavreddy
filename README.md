@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Data Structures and doing a capstone project
 - 🏀 I play basketball 
 - 📫 Reach me at trishavreddy@gmail.com
+- Personal website: https://trishavreddy.github.io/
 
 *Leetcode*: trishar7
 
