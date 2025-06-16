@@ -3,7 +3,7 @@
 - ✨ Sophomore @ University of Pennsylvania studying Computer Science
 - 🌱 Currently working on LLM-based emotion classification with multimodal data
 - 🏀 I play basketball!
-- 💌 Reach me at trishavreddy@gmail.com
+- 📬 Reach me at trishavreddy@gmail.com
 - Personal Site: [trishavreddy.github.io](https://trishavreddy.github.io/)
 
 *Leetcode*: trishar7
